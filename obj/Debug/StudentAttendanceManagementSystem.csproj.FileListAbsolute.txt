@@ -1,0 +1,12 @@
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\bin\Debug\StudentAttendanceManagementSystem.exe.config
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\bin\Debug\StudentAttendanceManagementSystem.exe
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\bin\Debug\StudentAttendanceManagementSystem.pdb
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.csproj.AssemblyReference.cache
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.DashBoardForm.resources
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.LoginForm.resources
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.Properties.Resources.resources
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.csproj.GenerateResource.cache
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.csproj.CoreCompileInputs.cache
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.exe
+D:\Documents\Project\Source\StudentAttendanceManagementSystem\obj\Debug\StudentAttendanceManagementSystem.pdb
