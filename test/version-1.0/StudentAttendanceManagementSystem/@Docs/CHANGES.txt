@@ -1,0 +1,19 @@
+﻿
+
+May 11, 2023
+	implemented search functionality on classes and students
+
+
+May 6, 2023
+	validate user and password on login form
+
+
+May 2, 2023
+	implement update functionality of the forms
+
+
+May 1, 2023
+	created this project
+	connect to database
+	implement insert, display and delete functionalities 
+		of the forms
